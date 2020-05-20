@@ -12,3 +12,4 @@ class Woman:
         self.height = self.height + 10
     def show(self):
         print("키, 몸무게, iq는 ",self.height,' ',self.weight,' ',self.iq,"입니다.")
+# 5월20일 수정
