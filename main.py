@@ -15,4 +15,3 @@ hyori.sleep()
 hyori.study()
 
 hyori.show()
-# 5월20일 수정
